@@ -1,2 +1,2 @@
-# spring-boot-java-http-bean
+# spring-boot-restclient
 Sprint Boot, Http Client, Beans, Hibernate Boilerplate
