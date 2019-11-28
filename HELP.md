@@ -1,6 +1,3 @@
-# spring-boot-java-web
-Sprint Boot, Http Client, SpringMVC, Beans, Hibernate Boilerplate
-
 # Getting Started
 
 Download or clone the repo
