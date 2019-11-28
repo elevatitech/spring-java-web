@@ -8,13 +8,13 @@ Download or clone the repo
 ### Prerequisites
 The required tools are part for the project. (Maven, etc)
 
-### Installing
-The dependencies are defined in the pom.xml file.
-<pre>$ ./mvnw clean install</pre>
-
 ### Configuration
 The mysql configuration can be updated in the src/main/resources/application.properties file. or you can use hbase by changing the spring.datasource url
 <pre>$ vi src/main/resources/application.properties</pre>
+
+### Installing
+The dependencies are defined in the pom.xml file.
+<pre>$ ./mvnw install  or  $ ./mvnw clean install</pre>
 
 ### Running
 Once the dependencies are successfully installed and built, Compile and Run the project.
