@@ -9,7 +9,8 @@ Download or clone the repo
 The required tools are part for the project. (Maven, etc)
 
 ### Configuration
-The mysql configuration can be updated in the src/main/resources/application.properties file. or you can use hbase by changing the spring.datasource url
+The mysql configuration can be updated in the src/main/resources/application.properties file. or you can use hbase by changing the spring.datasource url<br />
+Create a database name "logistics" or change it in properties file.
 <pre>$ vi src/main/resources/application.properties</pre>
 
 ### Installing
