@@ -3,7 +3,11 @@ Sprint Boot, Http Client, SpringMVC, Beans, Hibernate Boilerplate
 
 # Getting Started
 
-Download or clone the repo
+Clone the repo
+<pre>git clone https://github.com/elevatitech/spring-boot-java-web.git </pre>
+
+or just Download it
+<pre>https://github.com/elevatitech/spring-boot-java-web/archive/master.zip</pre>
 
 ### Prerequisites
 The required tools are part for the project. (Maven, etc)
