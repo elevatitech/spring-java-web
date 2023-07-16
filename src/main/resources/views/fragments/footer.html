@@ -1,0 +1,10 @@
+<footer class="footer mt-auto ms-5 py-3 bg-light" th:fragment="footer">
+    <div class="container">
+        &copy; <span id="footerYear"></span> Footer
+    </div>
+    <script>
+        const d = new Date();
+        let year = d.getFullYear();
+        document.getElementById("footerYear").innerText = year;
+    </script>
+</footer>
