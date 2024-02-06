@@ -1,4 +1,4 @@
-# spring-boot-java-web
+# spring-java-web
 Sprint Framework Boilerplate with: Spring Boot, Spring Data, Http Client, SpringMVC, Beans, Hibernate, Bootstrap CSS.
 
 # Getting Started
