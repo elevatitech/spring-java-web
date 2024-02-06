@@ -4,10 +4,10 @@ Sprint Framework Boilerplate with: Spring Boot, Spring Data, Http Client, Spring
 # Getting Started
 
 Clone the repo
-<pre>git clone https://github.com/elevatitech/spring-boot-java-web.git </pre>
+<pre>git clone https://github.com/elevatitech/spring-java-web.git </pre>
 
 or just Download it
-<pre>https://github.com/elevatitech/spring-boot-java-web/archive/master.zip</pre>
+<pre>https://github.com/elevatitech/spring-java-web/archive/master.zip</pre>
 
 ### Prerequisites
 The required tools are part for the project. (Maven, etc)
